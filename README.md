@@ -35,19 +35,28 @@ Othewise you can check the link in your terminal.
 ### Step-4 
 The interface of the web app is given below:-
 
-Then Click on the *TEXT EDITOR* Option then the interface is given below.
+<img src="https://github.com/rukmani887799/blogging/blob/main/img/1-blogging.png">
+Then Click on the *TEXT EDITOR* Option then the interface is given below:-
+
+<img src="https://github.com/rukmani887799/blogging/blob/main/img/2-blogging.png">
+
 
 ### Step-5
 * Then You can Write the whole blog in the box with Markdown (.md) language.
 * Cheatsheet for that language rules:- https://www.markdownguide.org/basic-syntax/
 * You put your blog name in the Heading box.
 * like:-
+<img src="https://github.com/rukmani887799/blogging/blob/main/img/3-blogging.png">
 
 
 ### Step-6
 * Click on the PREVIEW to check the preview .
 * Click on PUBLISH to publish the blog .
 * Now You can click On the my blog to see all the blog which you have written.
+<img src="https://github.com/rukmani887799/blogging/blob/main/img/4-blogging.png">
+<img src="https://github.com/rukmani887799/blogging/blob/main/img/5-blogging.png">
+<img src="https://github.com/rukmani887799/blogging/blob/main/img/6-blogging.png">
+
 
 
 
