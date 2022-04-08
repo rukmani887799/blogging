@@ -1,0 +1,27 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+	background: rgb(129, 219, 249);
+	background: linear-gradient(180deg, rgba(129, 219, 249, 1) 0%, rgba(129, 219, 249, 1) 100%);
+	background-size: cover;
+	background-attachment: fixed;
+	color: #f60808;
+	margin: 0 !important;
+	@apply select-none max-h-screen;
+}
+
+html {
+	margin: 0 !important;
+}
+
+.btn {
+	@apply p-2 shadow-sm rounded-md hover:opacity-80 hover:shadow-none w-full cursor-pointer;
+}
+.btn:active {
+	transform: scale(0.9);
+}
