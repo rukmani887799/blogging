@@ -11,7 +11,6 @@ then go to the blogging folder by code
 ```
 cd blogging
 ```
-
 ### OR
 
 * Click the link:-  https://github.com/rukmani887799/blogging/archive/refs/heads/main.zip 
@@ -36,3 +35,19 @@ Othewise you can check the link in your terminal.
 ### Step-4 
 The interface of the web app is given below:-
 
+Then Click on the *TEXT EDITOR* Option then the interface is given below.
+
+### Step-5
+* Then You can Write the whole blog in the box with Markdown (.md) language.
+* Cheatsheet for that language rules:- https://www.markdownguide.org/basic-syntax/
+* You put your blog name in the Heading box.
+* like:-
+
+
+### Step-6
+Now You can click On the my blog to see all the blog which you have written.
+
+
+
+
+**THANK YOU**
