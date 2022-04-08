@@ -45,7 +45,9 @@ Then Click on the *TEXT EDITOR* Option then the interface is given below.
 
 
 ### Step-6
-Now You can click On the my blog to see all the blog which you have written.
+* Click on the PREVIEW to check the preview .
+* Click on PUBLISH to publish the blog .
+* Now You can click On the my blog to see all the blog which you have written.
 
 
 
