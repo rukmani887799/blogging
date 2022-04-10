@@ -12,7 +12,7 @@ const config = {
 	}),
 
 	kit: {
-		adapter: adapter({
+		adapter: vercel({
 			pages: 'build/frontend',
 			assets: 'build/frontend',
 			fallback: null
