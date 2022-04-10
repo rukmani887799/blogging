@@ -1,5 +1,4 @@
 import { resolve } from 'path';
-import adapter from '@sveltejs/adapter-node';
 import preprocess from 'svelte-preprocess';
 import adapter from '@sveltejs/adapter-cloudflare';
 
