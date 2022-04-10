@@ -2,7 +2,6 @@
 	import Render from '$lib/render.svelte';
 	import store from '$lib';
 	export let content;
-	export let title;
 	// $: console.log('blog', { content, title });
 </script>
 
