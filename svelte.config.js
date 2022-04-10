@@ -1,6 +1,6 @@
 import { resolve } from 'path';
-import vercel from '@sveltejs/adapter-vercel';
 import preprocess from 'svelte-preprocess';
+import adapter from '@sveltejs/adapter-netlify';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -11,10 +11,11 @@ const config = {
 	}),
 
 	kit: {
-		adapter: vercel({
+		adapter: adapter({
 			pages: 'build/frontend',
 			assets: 'build/frontend',
-			fallback: null
+			fallback: null,
+			split: false
 		})
 	},
 	vite: {
