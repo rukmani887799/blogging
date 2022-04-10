@@ -1,6 +1,6 @@
 import { resolve } from 'path';
+import adapter from '@sveltejs/adapter-node';
 import preprocess from 'svelte-preprocess';
-import adapter from '@sveltejs/adapter-netlify';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -14,14 +14,13 @@ const config = {
 		adapter: adapter({
 			pages: 'build/frontend',
 			assets: 'build/frontend',
-			fallback: null,
-			split: false
+			fallback: null
 		})
 	},
 	vite: {
 		resolve: {
 			alias: {
-				$store: resolve('src')
+				$store: resolve('src/store')
 			}
 		}
 	}
