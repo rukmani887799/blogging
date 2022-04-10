@@ -1,7 +1,75 @@
 # Blogging with Hypercore and Hyperbee .
 ## This is a simple blogging site using Hyperbee .
 
+# There are 2 Types :--
+## 1- Who wanted Make Their Blog to other users
+## 2- Who wanted to see others blog and wanted to publish their blog in private.
+
 # How to Use:-
+
+## For 1:-
+### Step-1
+* Go to the repo https://github.com/rukmani887799/blogging then click on the Fork in the right side 
+* After that Clone your repo using
+```
+git clone https://github.com/[username]/blogging.git
+```
+* [username] = your github username
+* then go to the blogging folder by code
+```
+cd blogging
+```
+### Step-2
+Install the dependencies by the below code
+```
+npm install
+```
+### Step-3
+To run the programming simply run the below code 
+```
+npm run dev
+```
+### Step-4
+Now it sucessfully running my project ... go to the browser and open a tab with http://localhost:3000
+Othewise you can check the link in your terminal.
+### All the previous blogs are also showing.
+### Step-5
+* Then You can Write the whole blog in the box with Markdown (.md) language.
+* Cheatsheet for that language rules:- https://www.markdownguide.org/basic-syntax/
+* You put your blog name in the Heading box.
+* like:-
+<img src="https://github.com/rukmani887799/blogging/blob/main/img/3-blogging.png">
+
+
+### Step-6
+* Click on the PREVIEW to check the preview .
+* Click on PUBLISH to publish the blog .
+* Now You can click On the my blog to see all the blogs.
+<img src="https://github.com/rukmani887799/blogging/blob/main/img/4-blogging.png">
+<img src="https://github.com/rukmani887799/blogging/blob/main/img/5-blogging.png">
+<img src="https://github.com/rukmani887799/blogging/blob/main/img/6-blogging.png">
+
+### Step-7
+* Run the Below Commands
+```
+git add .db
+```
+* then
+```
+git commit
+```
+* then
+```
+git push
+```
+
+### Step-8
+Go to your Github Repo and click on contribute then ***open*** a pull request.
+
+## Fot 2:-
+
+
+
 ### Step-1
 Open the terminal code editor (if git already installed in your computer ) and Run the below Code.
 ```
