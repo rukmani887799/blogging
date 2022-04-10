@@ -65,6 +65,7 @@ git push
 
 ### Step-8
 Go to your Github Repo and click on contribute then ***open*** a pull request.
+*thank you @sambit sargam for testing and adding your blog
 
 ## Fot 2:-
 
