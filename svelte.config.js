@@ -1,6 +1,7 @@
 import { resolve } from 'path';
 import adapter from '@sveltejs/adapter-node';
 import preprocess from 'svelte-preprocess';
+import vercel from '@sveltejs/adapter-vercel';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
