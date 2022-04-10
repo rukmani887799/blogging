@@ -1,6 +1,6 @@
 import { resolve } from 'path';
 import preprocess from 'svelte-preprocess';
-import adapter from '@sveltejs/adapter-cloudflare';
+import vercel from '@sveltejs/adapter-vercel';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -11,7 +11,7 @@ const config = {
 	}),
 
 	kit: {
-		adapter: adapter({
+		adapter: vercel({
 			pages: 'build/frontend',
 			assets: 'build/frontend',
 			fallback: null
