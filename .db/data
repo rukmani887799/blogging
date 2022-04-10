@@ -6,3 +6,18 @@
 
 
 SAMN{"title":"SAM","body":"THANKS FOR GIVING ME TO TEST \n### SAM\n## SAM\n# SAM"}
+
+
+?Lesson-6-How-to-fork-a-repo-in-GitHub-Intro-version-control-gitÿ
+{"title":" Lesson 6. How to fork a repo in GitHub Intro version control git","body":"## What is a fork?\n\nLesson 6. How to fork a repo in GitHub Intro version control git\nLeah Wasser, Max Joseph, Software Carpentry, NEON Data Skills\n\nIn this lesson\n\n    Learning objectives\n    What you need\n    What is a fork?\n    How to Fork a Repo\n    Challenge: fork the Earth Lab 14ers repo\n    Explore your 14ers-git fork\n    Your fork vs. the central repo\n    Summary workflow â€“ fork a GitHub repository\n    Additional resources\n\nLearning objectives\n\nAt the end of this activity, you will:\n\n    Be able to create a fork, or copy, of a GitHub repository within your Github account.\n    Know how to navigate between your GitHub repository and a forked GitHub repository.\n    Be able to explain how your forked repository relates to the original repository that it was created from.\n\nWhat you need\n\n    A GitHub user account\n    A terminal running bash, and\n    git installed and configured on your computer.\n\nFollow the setup instructions here:\n\n    Setup instructions\n\nWhat is a fork?\n\nA GitHub fork is a copy of a repository (repo) that sits in your account rather than the account from which you forked the data from. Once you have forked a repo, you own your forked copy. This means that you can edit the contents of your forked repository without impacting the parent repo."}
+
+
+
+Hypercores¾{"title":"Hypercores ","body":"Hypercore Protocol is a peer-to-peer data network built on the Hypercore logs. Hypercores are signed, append-only logs. They're like lightweight blockchains without the consensus algorithm. As with BitTorrent, as more people \"seed\" a dataset it will increase the available bandwidth."}
+	
+
+Examples-of-httpÕ{"title":"Examples of http","body":"For example, when a URL is entered into the browser, the browser sends an HTTP command to the web server directing it to search and transmit the requested web page. The other main rule that controls the operation of the World Wide Web is HTML, which deals with how web pages are formatted and displayed."}
+
+
+
+"Simple-Mail-Transfer-Protocol-STMP {"title":"Simple Mail Transfer Protocol (STMP)","body":" SMTP is used to send and receive email. It is sometimes paired with IMAP or POP3 (for example, by a user-level application), which handles the retrieval of messages, while SMTP primarily sends messages to a server for forwarding."}
