@@ -1,5 +1,4 @@
 import { resolve } from 'path';
-import adapter from '@sveltejs/adapter-node';
 import vercel from '@sveltejs/adapter-vercel';
 import preprocess from 'svelte-preprocess';
 
@@ -12,7 +11,11 @@ const config = {
 	}),
 
 	kit: {
-		adapter: vercel(options)
+		adapter: vercel({
+			pages: 'build/frontend',
+			assets: 'build/frontend',
+			fallback: null
+		})
 	},
 	vite: {
 		resolve: {
