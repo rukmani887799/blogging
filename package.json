@@ -36,11 +36,14 @@
     "@lukeed/uuid": "^2.0.0",
     "@sveltejs/adapter-node": "^1.0.0-next.68",
     "@sveltejs/adapter-static": "^1.0.0-next.28",
+     "autoprefixer": "^10.4.4",
     "connectome": "^0.1.7",
     "cookie": "^0.4.2",
     "hyperbee": "^1.7.0",
     "hypercore": "^10.0.0-alpha.24",
     "markdown-hljs": "^0.1.11",
-    "stores-x": "^0.0.872"
+    "postcss": "^8.4.12",
+    "stores-x": "^0.0.872",
+    "tailwindcss": "^3.0.23"
   }
 }
